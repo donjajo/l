@@ -1,2 +1,2 @@
 # l
-Something similar to ls
+This is nothing special. I started out writing C and looking forward to programming in Linux, so I made something like this in my learning process :)
