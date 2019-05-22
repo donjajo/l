@@ -100,6 +100,7 @@ void list_files( char *dir, _Bool recurse, _Bool show_all ) {
             printf( "\n" );
             free( ago );
         }
+        free( filename );
     }
 
     closedir( d );
